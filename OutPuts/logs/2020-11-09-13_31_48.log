@@ -1,0 +1,51 @@
+2020-11-09 13:32:16,772 - INFO - 登录界面-登录功能界面，等待元素('name', 'username')可见
+2020-11-09 13:32:16,883 - INFO - 等待元素('name', 'username')可见结束，开始时间2020-11-09 13:32:16.773609,结束时间2020-11-09 13:32:16.860842,等待时长0
+2020-11-09 13:32:16,884 - INFO - 登录界面-登录功能界面，查找元素：('id', 'tab-password')
+2020-11-09 13:32:17,448 - INFO - 登录界面-登录功能点击元素('id', 'tab-password')[0]
+2020-11-09 13:32:17,495 - INFO - 登录界面-登录功能界面，查找元素：('name', 'username')
+2020-11-09 13:32:17,684 - INFO - 登录界面-登录功能,元素('name', 'username')[0]输入hnadmin
+2020-11-09 13:32:17,686 - INFO - 登录界面-登录功能界面，查找元素：('name', 'password')
+2020-11-09 13:32:17,881 - INFO - 登录界面-登录功能,元素('name', 'password')[0]输入1qaz!QAZ
+2020-11-09 13:32:17,881 - INFO - 登录界面-登录功能界面，查找元素：('name', 'verificationCode')
+2020-11-09 13:32:47,904 - ERROR - 登录界面-登录功能界面,元素('name', 'verificationCode')[0]输入9527失败！
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\cspytest\pageobject\basepage.py", line 220, in send_keys
+    elements[index].click()  # 点击
+IndexError: list index out of range
+2020-11-09 13:32:48,252 - INFO - 已截图保存，截图保存在:C:\Users\Administrator\PycharmProjects\cspytest\OutPuts\screenshot
+2020-11-09 13:32:50,183 - INFO - 登录界面-登录功能界面，等待元素('name', 'username')可见
+2020-11-09 13:32:50,228 - INFO - 等待元素('name', 'username')可见结束，开始时间2020-11-09 13:32:50.184851,结束时间2020-11-09 13:32:50.228969,等待时长0
+2020-11-09 13:32:50,229 - INFO - 登录界面-登录功能界面，查找元素：('id', 'tab-password')
+2020-11-09 13:32:50,783 - INFO - 登录界面-登录功能点击元素('id', 'tab-password')[0]
+2020-11-09 13:32:50,832 - INFO - 登录界面-登录功能界面，查找元素：('name', 'username')
+2020-11-09 13:32:51,035 - INFO - 登录界面-登录功能,元素('name', 'username')[0]输入hnadmin
+2020-11-09 13:32:51,035 - INFO - 登录界面-登录功能界面，查找元素：('name', 'password')
+2020-11-09 13:32:51,260 - INFO - 登录界面-登录功能,元素('name', 'password')[0]输入1qaz!QAZ
+2020-11-09 13:32:51,260 - INFO - 登录界面-登录功能界面，查找元素：('name', 'verificationCode')
+2020-11-09 13:33:21,273 - ERROR - 登录界面-登录功能界面,元素('name', 'verificationCode')[0]输入9527失败！
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\cspytest\pageobject\basepage.py", line 220, in send_keys
+    elements[index].click()  # 点击
+IndexError: list index out of range
+2020-11-09 13:33:21,606 - INFO - 已截图保存，截图保存在:C:\Users\Administrator\PycharmProjects\cspytest\OutPuts\screenshot
+2020-11-09 13:33:23,225 - INFO - 登录界面-登录功能界面，等待元素('name', 'username')可见
+2020-11-09 13:33:23,271 - INFO - 等待元素('name', 'username')可见结束，开始时间2020-11-09 13:33:23.226678,结束时间2020-11-09 13:33:23.271800,等待时长0
+2020-11-09 13:33:23,272 - INFO - 登录界面-登录功能界面，查找元素：('id', 'tab-password')
+2020-11-09 13:33:23,821 - INFO - 登录界面-登录功能点击元素('id', 'tab-password')[0]
+2020-11-09 13:33:23,881 - INFO - 登录界面-登录功能界面，查找元素：('name', 'username')
+2020-11-09 13:33:24,088 - INFO - 登录界面-登录功能,元素('name', 'username')[0]输入hnadmin
+2020-11-09 13:33:24,088 - INFO - 登录界面-登录功能界面，查找元素：('name', 'password')
+2020-11-09 13:33:24,285 - INFO - 登录界面-登录功能,元素('name', 'password')[0]输入1qaz!QAZ
+2020-11-09 13:33:24,285 - INFO - 登录界面-登录功能界面，查找元素：('name', 'verificationCode')
+2020-11-09 13:33:25,402 - ERROR - 登录界面-登录功能界面,元素('name', 'verificationCode')[0]输入9527失败！
+Traceback (most recent call last):
+  File "C:\Users\Administrator\PycharmProjects\cspytest\pageobject\basepage.py", line 220, in send_keys
+    elements[index].click()  # 点击
+IndexError: list index out of range
+2020-11-09 13:33:25,407 - ERROR - 截图发生异常: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=86.0.4240.183)
+
+2020-11-09 13:33:29,803 - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C106727048>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/1b505b0d8e503cb9c1e0fbf77d939035/window/maximize
+2020-11-09 13:33:30,807 - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C1071AAFC8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/1b505b0d8e503cb9c1e0fbf77d939035/window/maximize
+2020-11-09 13:33:31,809 - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C107096248>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。')': /session/1b505b0d8e503cb9c1e0fbf77d939035/window/maximize

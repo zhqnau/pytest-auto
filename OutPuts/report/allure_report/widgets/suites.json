@@ -1,0 +1,114 @@
+{
+  "total" : 16,
+  "items" : [ {
+    "uid" : "085a7f69508a7fcf40906d4c4f9d4b3b",
+    "name" : "test_bb02_emp_info_maintenance",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "59f224bdb672f815a29165f82997cc10",
+    "name" : "test_nka01servicemain",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "cc91fd66f8ba5b4bce8215f68d19d492",
+    "name" : "test_nka02eventmain",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "f3b9d1d7eb159489a4596772bc861c28",
+    "name" : "test_nka03eventrule",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "f5fadbe44ac5b3f1190d5cce1d1a805d",
+    "name" : "test_nka05policyInfm",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "2de5c38125bee58970c041427f581e54",
+    "name" : "test_nka06filestandard",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "575aeca904e8e6be229a0778a3b1a69a",
+    "name" : "test_nka07_incomprole",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "a4907dbf00d5c218f60035c38945f395",
+    "name" : "test_nkb01riskcontrule",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "10379bf1bc2c35e2dcb3e4237fc8b8bc",
+    "name" : "test_nkb02riskrulesappr",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "f971993e0ea7656582fc81711cac7698",
+    "name" : "test_nkb03riskrulesInvalid",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

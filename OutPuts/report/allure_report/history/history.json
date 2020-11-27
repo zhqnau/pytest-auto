@@ -1,0 +1,322 @@
+{
+  "e7a162f12e407324ec72cfc83d4da135" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3dca019111875e3c",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900006051,
+        "stop" : 1604900006051,
+        "duration" : 0
+      }
+    } ]
+  },
+  "345d3053a25c07d4965eaed02b2ade17" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d884070ccfa90a37",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900005719,
+        "stop" : 1604900005719,
+        "duration" : 0
+      }
+    } ]
+  },
+  "7cb5924a27aaf6c83ad21de400838e1d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c4b5752f7681a900",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900006141,
+        "stop" : 1604900006141,
+        "duration" : 0
+      }
+    } ]
+  },
+  "12043696dfa876fdf7f339200b9745a4" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "d10ffdbea15ffdd8",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900005952,
+        "stop" : 1604900005952,
+        "duration" : 0
+      }
+    } ]
+  },
+  "1e360cc517c34fd8b655868243ba3206" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a3991caf776b1d6f",
+      "status" : "broken",
+      "statusDetails" : "IndexError: list index out of range",
+      "time" : {
+        "start" : 1604900001690,
+        "stop" : 1604900001690,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ff307a469e5902a581a931e94ca6ad73" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "40e77b31c5f69654",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900006586,
+        "stop" : 1604900006586,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2380df82cd4a1bffc556310ef4c64bc0" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ab3768114f4f33f9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900006229,
+        "stop" : 1604900006229,
+        "duration" : 0
+      }
+    } ]
+  },
+  "2165d420d5d35649137e1bae281d9b0d" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c1f737e382249f95",
+      "status" : "broken",
+      "statusDetails" : "IndexError: list index out of range",
+      "time" : {
+        "start" : 1604899968358,
+        "stop" : 1604899968358,
+        "duration" : 0
+      }
+    } ]
+  },
+  "0db53f4f69788d7d5e7721151be38648" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "96525c611174cd95",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900005847,
+        "stop" : 1604900005847,
+        "duration" : 0
+      }
+    } ]
+  },
+  "31f149bd102ca9d7cc5b7184c7494d2a" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 1,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "6864f7ecccd343d1",
+      "status" : "skipped",
+      "statusDetails" : "Skipped: unconditional skip",
+      "time" : {
+        "start" : 1604900005653,
+        "stop" : 1604900005654,
+        "duration" : 1
+      }
+    } ]
+  },
+  "e6f7b6c8e7ab41f36ef70f767d672b08" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "b51728b5cf3f22b9",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900006313,
+        "stop" : 1604900006313,
+        "duration" : 0
+      }
+    } ]
+  },
+  "c3bfdba626fd720a1ac207c264ffb0f5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "90aad12f428863b3",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900006400,
+        "stop" : 1604900006400,
+        "duration" : 0
+      }
+    } ]
+  },
+  "81cea8d07446b452b5f9dd89ee012f0e" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "3a49f99c49179863",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900006501,
+        "stop" : 1604900006501,
+        "duration" : 0
+      }
+    } ]
+  },
+  "8967abc1a2b4ba51d134746a57e9ab1c" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "dc87574c3b56dcc2",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.WebDriverException: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604891179233,
+        "stop" : 1604891179233,
+        "duration" : 0
+      }
+    } ]
+  },
+  "ef4b707e050bdd81bbe424f74726b1d7" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "ddebc1154ba7f621",
+      "status" : "broken",
+      "statusDetails" : "urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='127.0.0.1', port=52900): Max retries exceeded with url: /session/1b505b0d8e503cb9c1e0fbf77d939035/window/maximize (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001C10715C1C8>: Failed to establish a new connection: [WinError 10061] 由于目标计算机积极拒绝，无法连接。'))",
+      "time" : {
+        "start" : 1604900008801,
+        "stop" : 1604900008801,
+        "duration" : 0
+      }
+    } ]
+  },
+  "5dcf5915f86272414c87087883b44b4b" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "2abdc692e24b856e",
+      "status" : "broken",
+      "statusDetails" : "selenium.common.exceptions.NoSuchWindowException: Message: no such window: target window already closed\nfrom unknown error: web view not found\n  (Session info: chrome=86.0.4240.183)",
+      "time" : {
+        "start" : 1604900005567,
+        "stop" : 1604900005567,
+        "duration" : 0
+      }
+    } ]
+  }
+}

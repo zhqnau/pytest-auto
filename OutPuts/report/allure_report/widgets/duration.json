@@ -1,0 +1,161 @@
+[ {
+  "uid" : "d10ffdbea15ffdd8",
+  "name" : "打开不相容角色维护模块",
+  "time" : {
+    "start" : 1604900005952,
+    "stop" : 1604900005952,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "96525c611174cd95",
+  "name" : "打开档案规范维护模块",
+  "time" : {
+    "start" : 1604900005847,
+    "stop" : 1604900005847,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c4b5752f7681a900",
+  "name" : "打开内控风险规则审批模块",
+  "time" : {
+    "start" : 1604900006141,
+    "stop" : 1604900006141,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "2abdc692e24b856e",
+  "name" : "业务环节经办规则维护模块新增",
+  "time" : {
+    "start" : 1604900005567,
+    "stop" : 1604900005567,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3dca019111875e3c",
+  "name" : "打开内控风险规则登记模块",
+  "time" : {
+    "start" : 1604900006051,
+    "stop" : 1604900006051,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "a3991caf776b1d6f",
+  "name" : "业务环节维护模块新增",
+  "time" : {
+    "start" : 1604900001690,
+    "stop" : 1604900001690,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "dc87574c3b56dcc2",
+  "name" : "单位信息维护",
+  "time" : {
+    "start" : 1604891179233,
+    "stop" : 1604891179233,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "d884070ccfa90a37",
+  "name" : "打开政策信息维护模块",
+  "time" : {
+    "start" : 1604900005719,
+    "stop" : 1604900005719,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "b51728b5cf3f22b9",
+  "name" : "受控模块登记",
+  "time" : {
+    "start" : 1604900006313,
+    "stop" : 1604900006313,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ab3768114f4f33f9",
+  "name" : "打开内控风险规则作废模块",
+  "time" : {
+    "start" : 1604900006229,
+    "stop" : 1604900006229,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "6864f7ecccd343d1",
+  "name" : "打开事项事件维护模块",
+  "time" : {
+    "start" : 1604900005653,
+    "stop" : 1604900005654,
+    "duration" : 1
+  },
+  "status" : "skipped",
+  "severity" : "normal"
+}, {
+  "uid" : "40e77b31c5f69654",
+  "name" : "受控模块审批",
+  "time" : {
+    "start" : 1604900006586,
+    "stop" : 1604900006586,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "ddebc1154ba7f621",
+  "name" : "内控参数设置",
+  "time" : {
+    "start" : 1604900008801,
+    "stop" : 1604900008801,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "90aad12f428863b3",
+  "name" : "受控模块生效申请",
+  "time" : {
+    "start" : 1604900006400,
+    "stop" : 1604900006400,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "c1f737e382249f95",
+  "name" : "服务事项维护新增",
+  "time" : {
+    "start" : 1604899968358,
+    "stop" : 1604899968358,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+}, {
+  "uid" : "3a49f99c49179863",
+  "name" : "受控模块作废申请",
+  "time" : {
+    "start" : 1604900006501,
+    "stop" : 1604900006501,
+    "duration" : 0
+  },
+  "status" : "broken",
+  "severity" : "normal"
+} ]

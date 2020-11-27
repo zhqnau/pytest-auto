@@ -1,0 +1,114 @@
+{
+  "total" : 16,
+  "items" : [ {
+    "uid" : "65d96f0ad019325ae0c2872d0d64f8f9",
+    "name" : "单位信息维护模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "d753fba6f67f7065cebda63fe7b752dc",
+    "name" : "服务事项维护模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "392a08de084770fb1d9478f6bcf4043d",
+    "name" : "业务环节维护模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "d355339cfbb519cc19b225bdef0fe3af",
+    "name" : "业务环节经办规则维护模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "28f9b89aaedfa3f7d8f59b0e7f535b0e",
+    "name" : "政策信息维护模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "cf202ab2650a49c0dd1b1c8491aa3807",
+    "name" : "档案规范维护模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1cc062b7dc7d18843035bb61cfe9f762",
+    "name" : "不相容角色维护模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "ce597debbaa21611b23d46ffa2dbef04",
+    "name" : "内控风险规则登记模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "9009dcb98c9ed75040fe7cfe19ded99c",
+    "name" : "内控风险规则审批模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  }, {
+    "uid" : "1df2d1cdf46f91e5dfebc82ff964b658",
+    "name" : "内控风险规则作废模块",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 1,
+      "skipped" : 0,
+      "passed" : 0,
+      "unknown" : 0,
+      "total" : 1
+    }
+  } ]
+}

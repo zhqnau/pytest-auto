@@ -1,0 +1,16 @@
+2020-11-04 11:11:04,277 - INFO - 登录界面-登录功能界面，等待元素('name', 'username')可见
+2020-11-04 11:11:04,332 - INFO - 等待元素('name', 'username')可见结束，开始时间2020-11-04 11:11:04.278217,结束时间2020-11-04 11:11:04.332587,等待时长0
+2020-11-04 11:11:04,332 - INFO - 登录界面-登录功能界面，查找元素：('id', 'tab-password')
+2020-11-04 11:11:04,895 - INFO - 登录界面-登录功能点击元素('id', 'tab-password')[0]
+2020-11-04 11:11:04,948 - INFO - 登录界面-登录功能界面，查找元素：('name', 'username')
+2020-11-04 11:11:05,183 - INFO - 登录界面-登录功能,元素('name', 'username')[0]输入hnadmin
+2020-11-04 11:11:05,185 - INFO - 登录界面-登录功能界面，查找元素：('name', 'password')
+2020-11-04 11:11:05,396 - INFO - 登录界面-登录功能,元素('name', 'password')[0]输入1qaz!QAZ
+2020-11-04 11:11:05,397 - INFO - 登录界面-登录功能界面，查找元素：('name', 'verificationCode')
+2020-11-04 11:11:05,567 - INFO - 登录界面-登录功能,元素('name', 'verificationCode')[0]输入9527
+2020-11-04 11:11:05,567 - INFO - 登录界面-登录功能界面，查找元素：('xpath', '//button[contains(@class,el-button)]/span[contains(text(),"登 录")]')
+2020-11-04 11:11:06,115 - INFO - 登录界面-登录功能点击元素('xpath', '//button[contains(@class,el-button)]/span[contains(text(),"登 录")]')[0]
+2020-11-04 11:11:06,172 - INFO - 子系统菜单界面，查找元素：('xpath', '//div[contains(text(),"内部控制子系统")]')
+2020-11-04 11:11:36,740 - INFO - 子系统菜单点击元素('xpath', '//div[contains(text(),"内部控制子系统")]')[0]
+2020-11-04 11:11:36,740 - INFO - 子系统菜单点击元素('xpath', '//div[contains(text(),"内部控制子系统")]')[0]失败！
+2020-11-04 11:11:37,023 - INFO - 已截图保存，截图保存在:C:\Users\Administrator\PycharmProjects\cspytest\OutPuts\screenshot

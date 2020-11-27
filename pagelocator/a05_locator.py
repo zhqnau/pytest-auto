@@ -1,0 +1,20 @@
+from selenium.webdriver.common.by import By
+
+
+open1menu = (By.XPATH, '//i[@title="展开菜单"]')
+level1menu = (By.XPATH, '//div[contains(text(),"内部控制子系统")]')
+level2menu = (By.XPATH, '//span[text()="业务规范设置管理"]')
+level3menu = (By.XPATH, '//span[text()="政策信息维护"]')
+iframe = (By.XPATH, '//*[@id="pane-ICSB01POLREGL0000004"]/div/iframe')
+add_button = (By.XPATH, '//div[contains(@id,"el-collapse-head-")]/div/button')
+year = (By.XPATH, '//label[@for="year"]/..//input')
+pol_no = (By.XPATH, '//label[@for="polReglNo"]/..//input')
+indx = (By.XPATH, '//label[@for="indx"]/..//input')
+ttl = (By.XPATH, '//label[@for="polReglTtl"]/..//input')
+regulations_sources = (By.XPATH, '//label[@for="reglSouc"]/..//input')
+post_fonts_z = (By.XPATH, '//label[@for="postFontsz"]/..//input')
+sbjwd = (By.XPATH, '//label[@for="sbjwd"]/..//input')
+regulations_cont = (By.XPATH, '//label[@for="reglAbst"]/..//textarea')
+save_button = (By.XPATH, '//div[@aria-label="政策法规信息表"]//button/span[contains(text(),"保存")]')
+txt = (By.XPATH, '//div[@id="app"]/following-sibling::div[@role="alert"]/p')
+close = (By.XPATH, '//div[@id="tab-ICSB01POLREGL0000004"]/span')

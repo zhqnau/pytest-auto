@@ -1,0 +1,341 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "单位信息维护模块",
+    "children" : [ {
+      "name" : "单位信息维护",
+      "children" : [ {
+        "name" : "单位信息维护",
+        "uid" : "dc87574c3b56dcc2",
+        "parentUid" : "7658034074ac01edaef6517b8ac151b4",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604891179233,
+          "stop" : 1604891179233,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'联系人小李'", "'21000000000000000000001336'" ]
+      } ],
+      "uid" : "7658034074ac01edaef6517b8ac151b4"
+    } ],
+    "uid" : "65d96f0ad019325ae0c2872d0d64f8f9"
+  }, {
+    "name" : "服务事项维护模块",
+    "children" : [ {
+      "name" : "服务事项维护",
+      "children" : [ {
+        "name" : "服务事项维护新增",
+        "uid" : "c1f737e382249f95",
+        "parentUid" : "1e7b77ba833cc7e5512803fee8dd98b0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604899968358,
+          "stop" : 1604899968358,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1'", "'服务事项说明'", "'SERVMAT1604899908'", "'SERVMAT1604899908'", "'内部控制'" ]
+      } ],
+      "uid" : "1e7b77ba833cc7e5512803fee8dd98b0"
+    } ],
+    "uid" : "d753fba6f67f7065cebda63fe7b752dc"
+  }, {
+    "name" : "业务环节维护模块",
+    "children" : [ {
+      "name" : "业务环节维护模块维护",
+      "children" : [ {
+        "name" : "业务环节维护模块新增",
+        "uid" : "a3991caf776b1d6f",
+        "parentUid" : "0d903ac0a54b94f33f523e794349a839",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900001690,
+          "stop" : 1604900001690,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'SERVMAT1604899908'", "'SERVMAT1604899908'", "'SERVMAT1604899908'", "'服务事项环节说明'", "'1'", "'1'", "'1'" ]
+      } ],
+      "uid" : "0d903ac0a54b94f33f523e794349a839"
+    } ],
+    "uid" : "392a08de084770fb1d9478f6bcf4043d"
+  }, {
+    "name" : "业务环节经办规则维护模块",
+    "children" : [ {
+      "name" : "业务环节经办规则维护",
+      "children" : [ {
+        "name" : "业务环节经办规则维护模块新增",
+        "uid" : "2abdc692e24b856e",
+        "parentUid" : "e40b48ba63eb6fc057152ec24fdc9ad0",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900005567,
+          "stop" : 1604900005567,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'SERVMAT1604899908'", "'经办规则说明'", "'SERVMAT1604899908'" ]
+      } ],
+      "uid" : "e40b48ba63eb6fc057152ec24fdc9ad0"
+    } ],
+    "uid" : "d355339cfbb519cc19b225bdef0fe3af"
+  }, {
+    "name" : "事项事件维护模块",
+    "children" : [ {
+      "name" : "事项事件维护模块新增",
+      "children" : [ {
+        "name" : "打开事项事件维护模块",
+        "uid" : "6864f7ecccd343d1",
+        "parentUid" : "b9e9607d28ead8ffce63b200b0f9615e",
+        "status" : "skipped",
+        "time" : {
+          "start" : 1604900005653,
+          "stop" : 1604900005654,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'事件描述'", "'SERVMAT1604899908'", "'SERVMAT1604899908'", "'SERVMAT1604899908'" ]
+      } ],
+      "uid" : "b9e9607d28ead8ffce63b200b0f9615e"
+    } ],
+    "uid" : "5f2e4f7098475939ccc34f5cc5c002d6"
+  }, {
+    "name" : "政策信息维护模块",
+    "children" : [ {
+      "name" : "政策信息维护模块新增",
+      "children" : [ {
+        "name" : "打开政策信息维护模块",
+        "uid" : "d884070ccfa90a37",
+        "parentUid" : "d305cdfdbecb40dd1da3986d6d0d4f68",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900005719,
+          "stop" : 1604900005719,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'POLREGL1604899908'", "'医保发〔2020〕37号1604899908'", "'POLREGL1604899908'", "'POLREGL1604899908'", "'国家医保局'", "'制度试点1604899908'", "'关于扩大长期护理保险制度试点的指导意见1604899908'", "'2020'" ]
+      } ],
+      "uid" : "d305cdfdbecb40dd1da3986d6d0d4f68"
+    } ],
+    "uid" : "28f9b89aaedfa3f7d8f59b0e7f535b0e"
+  }, {
+    "name" : "档案规范维护模块",
+    "children" : [ {
+      "name" : "档案规范维护模块新增",
+      "children" : [ {
+        "name" : "打开档案规范维护模块",
+        "uid" : "96525c611174cd95",
+        "parentUid" : "d94482f6dedb26db36aaaee86b6f96b7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900005847,
+          "stop" : 1604900005847,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "2", "'档案材料说明'", "'档案材料名称1604899908'", "'SERVMAT1604899908'" ]
+      } ],
+      "uid" : "d94482f6dedb26db36aaaee86b6f96b7"
+    } ],
+    "uid" : "cf202ab2650a49c0dd1b1c8491aa3807"
+  }, {
+    "name" : "不相容角色维护模块",
+    "children" : [ {
+      "name" : "不相容角色维护模块新增",
+      "children" : [ {
+        "name" : "打开不相容角色维护模块",
+        "uid" : "d10ffdbea15ffdd8",
+        "parentUid" : "aa1a7a3b3f317918ba47c1aa1547556a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900005952,
+          "stop" : 1604900005952,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'内控负责人'", "'内控业务整改人'", "'业务角色和审批角色互斥'", "'互斥角色1604899908'" ]
+      } ],
+      "uid" : "aa1a7a3b3f317918ba47c1aa1547556a"
+    } ],
+    "uid" : "1cc062b7dc7d18843035bb61cfe9f762"
+  }, {
+    "name" : "内控风险规则登记模块",
+    "children" : [ {
+      "name" : "内控风险规则登记模块新增",
+      "children" : [ {
+        "name" : "打开内控风险规则登记模块",
+        "uid" : "3dca019111875e3c",
+        "parentUid" : "49fe7379d5310eac5d3c8d0f4e668fbe",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900006051,
+          "stop" : 1604900006051,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'内控规则描述'", "'SERVMAT'", "'SERVMAT'", "'内控规则描述提示信息'", "'SERVMAT1604899908'", "'SERVMAT1604899908'", "'SERVMAT'" ]
+      } ],
+      "uid" : "49fe7379d5310eac5d3c8d0f4e668fbe"
+    } ],
+    "uid" : "ce597debbaa21611b23d46ffa2dbef04"
+  }, {
+    "name" : "内控风险规则审批模块",
+    "children" : [ {
+      "name" : "内控风险规则审批",
+      "children" : [ {
+        "name" : "打开内控风险规则审批模块",
+        "uid" : "c4b5752f7681a900",
+        "parentUid" : "6044cc4acb8bb68a9dd2d2c7fe66fb71",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900006141,
+          "stop" : 1604900006141,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'SERVMAT1604899908'", "'SERVMAT'" ]
+      } ],
+      "uid" : "6044cc4acb8bb68a9dd2d2c7fe66fb71"
+    } ],
+    "uid" : "9009dcb98c9ed75040fe7cfe19ded99c"
+  }, {
+    "name" : "内控风险规则作废模块",
+    "children" : [ {
+      "name" : "内控风险规则作废",
+      "children" : [ {
+        "name" : "打开内控风险规则作废模块",
+        "uid" : "ab3768114f4f33f9",
+        "parentUid" : "2165548417c785b5b11470ef7323473f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900006229,
+          "stop" : 1604900006229,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'SERVMAT1604899908'", "'SERVMAT'" ]
+      } ],
+      "uid" : "2165548417c785b5b11470ef7323473f"
+    } ],
+    "uid" : "1df2d1cdf46f91e5dfebc82ff964b658"
+  }, {
+    "name" : "受控模块登记模块",
+    "children" : [ {
+      "name" : "受控模块登记模块维护",
+      "children" : [ {
+        "name" : "受控模块登记",
+        "uid" : "b51728b5cf3f22b9",
+        "parentUid" : "236d960c1334181851435de52d3b6532",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900006313,
+          "stop" : 1604900006313,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'SERVMAT'", "'内控参数设置'", "'内控参数设置1604899908'" ]
+      } ],
+      "uid" : "236d960c1334181851435de52d3b6532"
+    } ],
+    "uid" : "c6dface7aef76c2751b8404b41392794"
+  }, {
+    "name" : "受控模块生效申请模块",
+    "children" : [ {
+      "name" : "受控模块生效申请维护",
+      "children" : [ {
+        "name" : "受控模块生效申请",
+        "uid" : "90aad12f428863b3",
+        "parentUid" : "a0667b0920a8040e3cac5bb00e243ed6",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900006400,
+          "stop" : 1604900006400,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'内控参数设置生效申请1604899908'", "'内控'" ]
+      } ],
+      "uid" : "a0667b0920a8040e3cac5bb00e243ed6"
+    } ],
+    "uid" : "b091463e0830c60f2ed58eafc2c5b16b"
+  }, {
+    "name" : "受控模块作废申请模块",
+    "children" : [ {
+      "name" : "受控模块作废申请维护",
+      "children" : [ {
+        "name" : "受控模块作废申请",
+        "uid" : "3a49f99c49179863",
+        "parentUid" : "66851f88a6b3a58f977ffbaf53994f8c",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900006501,
+          "stop" : 1604900006501,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'内控参数设置生效申请1604899908'", "'内控'" ]
+      } ],
+      "uid" : "66851f88a6b3a58f977ffbaf53994f8c"
+    } ],
+    "uid" : "2b14ec061a4185f3aa6ea5c828c3e988"
+  }, {
+    "name" : "受控模块审批模块",
+    "children" : [ {
+      "name" : "受控模块审批",
+      "children" : [ {
+        "name" : "受控模块审批",
+        "uid" : "40e77b31c5f69654",
+        "parentUid" : "c9c852b3888df014616e5ca2282205de",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900006586,
+          "stop" : 1604900006586,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'同意内控参数设置生效申请1604899908'", "'内控'" ]
+      } ],
+      "uid" : "c9c852b3888df014616e5ca2282205de"
+    } ],
+    "uid" : "ece13690856e6dde0f7594c6a8cc8e55"
+  }, {
+    "name" : "内控参数设置模块",
+    "children" : [ {
+      "name" : "内控参数设置维护",
+      "children" : [ {
+        "name" : "内控参数设置",
+        "uid" : "ddebc1154ba7f621",
+        "parentUid" : "ce51335d7d245c2260912d913df2ba67",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604900008801,
+          "stop" : 1604900008801,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "'1604899908'", "'内控参数1604899908'", "'内控参数'", "'1604899908'", "'SERVMAT'" ]
+      } ],
+      "uid" : "ce51335d7d245c2260912d913df2ba67"
+    } ],
+    "uid" : "570660ba77c2c7853de9045798454e2e"
+  } ]
+}
