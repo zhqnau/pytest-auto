@@ -1,7 +1,7 @@
 MYSQLDB:
- host: 10.130.99.170
- port: 3306
- user: root
- password: neusoft123
- database: intlportal_db
+ host: 
+ port: 
+ user: 
+ password: 
+ database: 
  charset: utf8
